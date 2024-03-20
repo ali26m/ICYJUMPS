@@ -8,7 +8,7 @@ Let's run!
 
 On the start page. There is a welcome message with instructions
 
-![Start Scene](img/Start-Page.jpg)
+![Start Scene](img/Start-Scene.jpg)
 
 ***
 
