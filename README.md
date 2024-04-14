@@ -4,6 +4,9 @@ Icyjumps is a game based on the idea of icytower but instead of moving the scene
 
 Let's run!
 
+# watch the demo gameplay on YouTube
+https://youtu.be/r6aflqiyKYY?si=vH1XScyFnTxnTOBW
+
 ## Description 
 
 On the start page. There is a welcome message with instructions
@@ -38,7 +41,7 @@ Mostafa Nabil mostafan22034405@gmail.com
 
 Omar Gamal Oelmasry275@gmail.com
 
-and me
+and me alihisham26m@gmail.com
 
 ***
 
